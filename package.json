@@ -1,0 +1,22 @@
+{
+  "name": "020_marcio_render_farm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taboca/Screenshot-and-animation-recorder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taboca/Screenshot-and-animation-recorder/issues"
+  },
+  "homepage": "https://github.com/taboca/Screenshot-and-animation-recorder#readme",
+  "dependencies": {
+    "electron-screenshot-service": "^4.0.3"
+  }
+}
